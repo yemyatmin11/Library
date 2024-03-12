@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent javascript",
+      "description": "Best JS book",
+      "categories": [
+        "Javascript",
+        "Programming"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Larvel from scratch",
+      "description": "Best PHP framework book",
+      "categories": [
+        "PHP",
+        "Programming",
+        "Larvel"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "React Basic",
+      "description": "Best JS Library book",
+      "categories": [
+        "React",
+        "Javascript",
+        "Programming"
+      ]
+    },
+    {
+      "id": "a2a5",
+      "title": "wewqe",
+      "description": "1212",
+      "categories": [
+        "1212",
+        "wewqe"
+      ]
+    },
+    {
+      "id": "dcdb",
+      "title": "title",
+      "description": "desc",
+      "categories": [
+        "abc",
+        "123"
+      ]
+    },
+    {
+      "id": "d1c4",
+      "title": "book",
+      "description": "book desc",
+      "categories": [
+        "123",
+        "abcd",
+        "hello"
+      ]
+    },
+    {
+      "id": "ea07",
+      "title": "Hello",
+      "description": "Book des",
+      "categories": [
+        "go",
+        "123"
+      ]
+    },
+    {
+      "id": "e8d4",
+      "title": "",
+      "description": "",
+      "categories": []
+    },
+    {
+      "id": "ab52",
+      "title": "",
+      "description": "",
+      "categories": []
+    }
+  ]
+}
